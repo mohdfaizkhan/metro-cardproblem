@@ -1,0 +1,13 @@
+
+
+spring:
+  application:
+    name: Metro-Card-problem
+  data:
+    mongodb:
+      database: cardproblem
+  sleuth:
+    sampler:
+      probability: 1.0
+
+logging.level.org.springframework.cloud.sleuth: DEBUG
