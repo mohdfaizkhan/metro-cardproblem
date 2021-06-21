@@ -2,7 +2,7 @@
 
 The Metro Card Problem
 You are required to model the following fare card system which is a limited version of
-London’s Oyster card system. At the end of the application, you are be able to see a
+Metro card system. At the end of the application, you are be able to see a
 user loading a card with $30, and taking the following trips, and then viewing the balance.
 - Train Hamilton to Thunder Bay
 - 106 bus from Thunder Bay to Dryden
